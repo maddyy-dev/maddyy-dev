@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/maddy-dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Software+Developer;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
